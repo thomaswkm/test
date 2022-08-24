@@ -63,6 +63,6 @@ public class Mavenproject2 {
         
         devolverBinario(calcularBinario(nroDecimal));
         
-        //System.out.println(nroDecimal%2);
+       
     }
 }
